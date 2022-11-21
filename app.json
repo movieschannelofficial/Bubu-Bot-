@@ -5,7 +5,7 @@
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
     "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/movieschannelofficial/Bubu-Bot",
+    "repository": "https://github.com/movieschannelofficial/Bubu-Bot-/edit/main/app.json",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
