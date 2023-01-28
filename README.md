@@ -54,7 +54,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Movieschannelofficials/Bubu-Bot-/edit/main/README.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/movieschannelofficial/Bubu-Bot-/edit/main/README.md)
 
 ## Commands
 ```
